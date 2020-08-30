@@ -17,7 +17,7 @@ module.exports = app => {
                 name: 'David Wilson',
                 age: 17,
                 id: 3
-            },
+            }
         ];
         //next line will send response in JSON format
         res.json(students);
