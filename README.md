@@ -1,6 +1,6 @@
 # my-app
 
-Here will be some information about the app.
+Here will be some information about the app. test
 
 **Clone the repo and get Started with following commands**
 
